@@ -1,0 +1,5 @@
+discord.py @ git+https://github.com/Rapptz/discord.py@49e31e9e23517471252cd3f992fa3c88607741ff
+py-cord==2.4.1
+bardapi==0.1.11
+Flask==2.3.2
+python-dotenv==0.20.0
